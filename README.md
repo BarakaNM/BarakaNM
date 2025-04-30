@@ -2,7 +2,7 @@
 # 💫 About Me:
 ## Hello🧑‍💻 Baraka Nzavi here🙋
 
-🔭 Currently working as Web Portal Developer and Microsoft Dynamics 365 Business Central Developer.<br>🏫 Continuously learning and growing in Microsoft Dynamics 365 Business Central Development & CI.<br>🌱 Actively working on Business Central  and ERP projects.<br>💡 Passionate about exploring and mastering Microsoft Dynamics 365 Business Central Development  & CI.
+🔭 Currently working as Fintech Developer and Microsoft Dynamics 365 Business Central Developer.<br>🏫 Continuously learning and growing in Microsoft Dynamics 365 Business Central Development & CI.<br>🌱 Actively working on Business Central  and ERP projects.<br>💡 Passionate about exploring and mastering Microsoft Dynamics 365 Business Central Development  & CI.
 
 
 
